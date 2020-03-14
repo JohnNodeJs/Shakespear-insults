@@ -1,7 +1,7 @@
 var first_list = [
-    "Thou Art A","Thou Look Like A", "Thou", "Ye", "There's No More Faith In Thee Then In A", "Get Out Of Here, Ye",
-    "Cover Thy Face, Ye","Thou Art Dumber Than A ","Get Out Of My Sight Ye","Thou Art A Plague Upon This Earth, Ye"
-    ,"Thy mother is but a","Your wife Is No More Then A"
+    "Thou art a","Thee behold liketh a", "Thee", "Th're's nay m're faith in thee then in a", "Receiveth out of h're, ye",
+    "Cov'r thy face, ye","Thou art dumb'r than a ","Get out of my sight ye","Thou art a beshrew upon this earth, ye"
+    ,"Thy mother is but a","Your wife Is nay more then a"
 ];
 var second_list = [
     "Pompous","Poisonous","Bunch-Backed","Wicked","Stewed","Disgusting","Putrid","Vile","Rotten","Bumbling",
