@@ -1,5 +1,5 @@
 var first_list = [
-    "Thou Art A","Thou Look Like A", "Thou", "Ye", "There's No More Faith In Thee Then In A", "Get Out Of Here, Thou",
+    "Thou Art A","Thou Look Like A", "Thou", "Ye", "There's No More Faith In Thee Then In A", "Get Out Of Here, Ye",
     "Cover Thy Face, Ye","Thou Art Dumber Than A ","Get Out Of My Sight Ye","Thou Art A Plague Upon This Earth, Ye"
     ,"Thy mother is but a","Your wife Is No More Then A"
 ];
